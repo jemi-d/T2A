@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">T2A</string>
+    <string name="no_results_found">No results found</string>
+    <string name="product_title">Product Title</string>
+    <string name="price_0_00">Price: $0.00</string>
+    <string name="product_description_here">Product description here...</string>
+    <string name="products">Products</string>
+    <string-array name="sort_options">
+        <item>All</item>
+        <item>Price</item>
+        <item>Category</item>
+    </string-array>
+</resources>
